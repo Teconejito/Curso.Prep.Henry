@@ -1,0 +1,5 @@
+Variables: una variable es un espacio en memoria que reserva la computadora, puede cambiarse su valor las veces que se quieran.
+String: es un tipo de datos que se refiere a texto, que debe ir entre comillas puede ser solo un caracter o todos los que se quiera.
+Funciones: es practicamente agrupar codigo para poder reutilizarlo luego, sin tener que escribir el mismo codigo muchas veces, solamente una vez y luego se llama dicho codigo
+Declaraciones if: es cuando en el codigo se decide una condicion, si resulta verdadera se ejecuta una parte del codigo y si resulta false se puede ejecutar otra parte del codigo.
+Valores booleanos (true, false): estos valores resultan de condiciones que pueden ser verdaderas o falsas.
